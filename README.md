@@ -82,4 +82,6 @@ Frontend (React Canvas) → Gateway → 3 Replica Servers
 ##  Run the Project
 
 ```bash
-docker compose up
+cd distributed-drawing-board
+docker compose up --build
+
