@@ -85,3 +85,12 @@ Frontend (React Canvas) → Gateway → 3 Replica Servers
 cd distributed-drawing-board
 docker compose up --build
 
+
+
+
+<img width="1919" height="895" alt="Screenshot 2026-04-13 141159" src="https://github.com/user-attachments/assets/bdf4bc45-f052-4b5b-a1ec-ac4e51189bc0" />
+
+
+
+
+
